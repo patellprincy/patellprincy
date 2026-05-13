@@ -21,36 +21,46 @@
 
 ## 🧠 About Me
 
-💡 I build **production-grade Android apps and AI-powered systems** that solve real-world problems.
+💡 I’m a software developer focused on building **scalable, reliable, and intelligent systems**.
 
-- 📱 Android (Kotlin, Jetpack Compose, MVVM)
-- 🤖 AI + ML Integration (LLMs, anomaly detection)
-- ⚙️ FastAPI backend + microservices architecture
-- 📊 Data engineering (ETL pipelines, SQL, ADF)
+- 📱 Strong foundation in Android development (Kotlin, Jetpack Compose, MVVM)
+- ⚙️ Experience designing backend systems and REST APIs
+- 🤖 Exposure to AI/ML concepts and real-world integration
+- 📊 Familiar with data workflows, databases, and ETL processes
 
-I focus on building systems that are:
-> ⚡ Scalable • 🧠 Intelligent • 🚀 Production-ready
+I enjoy working across the stack and turning ideas into **clean, maintainable, and production-ready solutions**.
+
+> ⚡ Scalable • 🧠 Intelligent • 🚀 Built with purpose
 
 ---
 
-## 🔥 Featured Project — FinSight AI
+## 🚀 FinSight AI  
+**AI-powered financial analytics platform**
 
-🚀 **AI-powered financial analytics platform**
+---
 
 ### ⚙️ What it does:
-- 📊 Tracks expenses in real-time
-- 🤖 AI auto-categorizes transactions
-- 🚨 Detects anomalies (unusual spending)
-- 💬 Includes AI chatbot for insights
-- 🌍 Multi-currency support
+- 📊 Tracks expenses in real-time  
+- 🤖 AI auto-categorizes transactions using LLMs  
+- 🚨 Detects anomalies (unusual spending patterns)  
+- 💬 AI chatbot powered by **RAG (Retrieval-Augmented Generation)** for personalized financial insights  
+- 🌍 Multi-currency support  
+
+---
+
+### 🧠 AI Capabilities:
+- 🔍 **RAG-based chatbot** retrieves user-specific financial data and generates context-aware responses  
+- 🧾 LLM-powered classification for intelligent expense categorization  
+- 📊 ML-driven anomaly detection using Isolation Forest  
+
+---
 
 ### 🏗 Tech Architecture:
-- 📱 Android (Jetpack Compose + MVVM)
-- ⚙️ FastAPI backend (async APIs)
-- 🧠 AI microservice (LLM-based classification)
-- 📊 ML anomaly detection (Isolation Forest)
-- 🗄 PostgreSQL database
-
+- 📱 Android (Jetpack Compose + MVVM)  
+- ⚙️ FastAPI backend (async REST APIs)  
+- 🧠 AI microservice (LLM-based classification + RAG pipeline)  
+- 📊 ML service (anomaly detection)  
+- 🗄 PostgreSQL database  
 ---
 
 ## 🛠 Tech Stack
@@ -91,11 +101,10 @@ I focus on building systems that are:
 
 ## 💼 Experience Snapshot
 
-- 📱 Built enterprise Android app (Compose + Clean Architecture)
-- 🔐 Implemented OAuth 2.0, SSO, MFA authentication
-- ⚙️ Developed ADF pipelines (99.9% uptime)
-- 🤖 Automated ETL workflows (70% effort reduction)
-
+- 📱 Engineered a **production-grade enterprise Android application** using Kotlin, Jetpack Compose, and Clean Architecture, ensuring scalability and modular design  
+- 🔐 Designed and implemented **secure authentication systems** (OAuth 2.0, SSO, MFA), strengthening enterprise-grade access control and session security  
+- ⚙️ Architected and optimized **Azure Data Factory (ADF) pipelines** with **99.9% uptime**, enabling reliable large-scale data migration and processing  
+- 🤖 Automated complex ETL workflows using Python, reducing **manual effort by 70%** and significantly improving data pipeline efficiency  
 ---
 
 ## 📊 GitHub Stats
