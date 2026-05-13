@@ -55,47 +55,38 @@ I focus on building systems that are:
 
 ## 🛠 Tech Stack
 
-### 📱 Android
-![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android)
-![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge)
-
----
-
 ### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
 ### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
 ### 💻 Programming
-![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
